@@ -13,6 +13,5 @@ Frontend Web Developer
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=syedjalal-503&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=syedjalal-503&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
